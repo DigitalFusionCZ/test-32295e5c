@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:36:19.159Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "White version of the 'VŠE PRO STAVBY.CZ' company logo, likely used against a dark background or for branding purposes. The original dimensions (1024x609) are quite large for a typical logo display.",
+      "suggested_usage": "Use this high-resolution logo for brand consistency. Consider using a smaller, optimized version (e.g., SVG for scalability or a more appropriately sized PNG like 200x120px) for the header, footer, and other display areas to improve page load times. Ensure alt text is added for accessibility.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "A photograph depicting a construction or renovation project, possibly a facade, located in Tanvald. The image shows a building with scaffolding or ongoing work, suggesting it's an example of their building work.",
+      "suggested_usage": "Use this image in the 'References' or 'Gallery' section to showcase completed or in-progress projects related to facade work or general construction. Add descriptive alt text (e.g., 'Completed building project in Tanvald' or 'Facade renovation in Tanvald'). Optimize the image size for web display.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo-house.jpg",
+      "file_name": "project-rdpo-house.jpg",
+      "description": "An image related to 'RDPO', which likely stands for 'Rodinný Dům PO' (Family House after, or similar project abbreviation). It likely showcases a completed or major stage of a residential building project.",
+      "suggested_usage": "Use this image in the 'References', 'Projects', or 'Services' section to illustrate their work on family houses, particularly if 'RDPO' refers to a specific project type or stage. Ensure the context of 'RDPO' is clear on the website. Good alt text is already present, but it could be expanded for more detail (e.g., 'Completed family house project RDPO'). Optimize the image dimensions for web use.",
+      "size_bytes": 558411
+    }
+  ]
+}
